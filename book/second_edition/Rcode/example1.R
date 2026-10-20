@@ -65,7 +65,7 @@ imax
 nmax=imax*(2*sigma^2)
 nmax
 
-# imax=0.4761
+# imax=95.21712
 # Maximum sample size is just over 95 per treatment
 
 # Inspect this design with cumulative information levels as planned
