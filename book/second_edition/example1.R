@@ -19,9 +19,9 @@
 
 # Load functions to be called later
 
-source("~/My files/deming_dec_2025_demos/standards.R")
-source("~/My files/deming_dec_2025_demos/ersptest.R")
-source("~/My files/deming_dec_2025_demos/findroot.R")
+source("standards.R")
+source("ersptest.R")
+source("findroot.R")
 
 alpha=0.025
 beta=0.1
@@ -65,7 +65,8 @@ imax
 nmax=imax*(2*sigma^2)
 nmax
 
-# imax=95.21712
+# imax=74.38838
+# nmax=95.21712
 # Maximum sample size is just over 95 per treatment
 
 # Inspect this design with cumulative information levels as planned
